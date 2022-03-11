@@ -1,2 +1,2 @@
 # aws-vpc-tf-example
-Sample terraform infrastructure
+Sample Terraform infrastructure that demonstrates how to use published CloudFormation based AWS Quick Start without modifications.
